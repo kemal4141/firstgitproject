@@ -1,6 +1,6 @@
 This is my first GitHub Class
 This my second commit
-<<<<<<< HEAD
+
 New Local Code
 
 New Remote Code
